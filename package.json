@@ -1,0 +1,19 @@
+{
+  "name": "servers",
+  "version": "1.0.0",
+  "description": "Week 13 Activity",
+  "main": "two-servers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chzwzrd/Servers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chzwzrd/Servers/issues"
+  },
+  "homepage": "https://github.com/chzwzrd/Servers#readme"
+}
